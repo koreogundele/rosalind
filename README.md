@@ -1,0 +1,1 @@
+This is a repository for Korede's Rosalind practice problems. The purpose of this repository is not to post Rosalind answers, but to familiarize myself with git, GitHUb, pushing, pulling, etc without messing up any MSSE stuff
